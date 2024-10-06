@@ -26,5 +26,5 @@ Disallow: /images/
 Disallow: /fonts/
 
 # 提供 Sitemap 路径，帮助搜索引擎更好地索引内容
-Sitemap: https://loveskill.mjsj.sbs/sitemap.xml
-Sitemap: https://loveskill.mjsj.sbs/baidusitemap.xml
+Sitemap: https://sexylove.mjsj.sbs/sitemap.xml
+Sitemap: https://sexylove.mjsj.sbs/baidusitemap.xml
